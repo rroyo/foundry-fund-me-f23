@@ -1,0 +1,8 @@
+.vscode/
+cache/
+out/
+broadcast/
+lib/
+docs/
+.env
+.gas-snapshot
